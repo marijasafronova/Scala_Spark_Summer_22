@@ -3,7 +3,7 @@ package com.github.valrcs
 import org.apache.spark.sql.SparkSession
 
 object Day17HelloSpark extends App {
-  println(s"Testing Scala version: ${util.Properties.versionString}")
+  println(s"Testing Scala version: ${util.Properties.versionString}") //check Scala version like this
 
   val spark = SparkSession.builder().appName("test").master("local").getOrCreate()
   //also session is a common name for the above spark object
