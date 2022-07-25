@@ -1,37 +1,890 @@
-2022-07-22 22:54:56,213 WARN c.g.m.Day18Logging [main] This is a warning
-2022-07-22 22:54:56,224 ERROR c.g.m.Day18Logging [main] This is an error!
-2022-07-23 15:07:23,071 DEBUG c.g.m.Day18Logging [main] Hello this is a debug message
-2022-07-23 15:07:23,077 INFO c.g.m.Day18Logging [main] Hello this is an info message
-2022-07-23 15:07:23,077 WARN c.g.m.Day18Logging [main] This is a warning
-2022-07-23 15:07:23,077 ERROR c.g.m.Day18Logging [main] This is an error!
-2022-07-23 15:23:56,979 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:23:57,009 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 15:25:46,372 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:25:46,405 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 15:33:55,646 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:33:55,674 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 15:50:45,424 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:50:45,453 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 15:51:43,903 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:51:43,933 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 15:53:18,724 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:53:18,759 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 15:53:54,281 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 15:53:54,318 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 16:07:31,704 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 16:07:31,742 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 16:08:13,888 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 16:08:13,950 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 16:11:36,568 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 16:11:36,598 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 16:20:33,198 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 16:20:33,225 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 17:02:58,572 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-23 17:02:58,613 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-23 17:03:15,771 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
-2022-07-25 14:43:07,420 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-25 14:43:07,454 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-25 14:52:38,316 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-25 14:52:38,347 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-2022-07-25 14:55:43,769 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
-2022-07-25 14:55:43,802 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:21:53,908 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:21:53,938 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:22:06,603 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 15:24:00,460 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:24:00,487 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:31:22,108 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:31:22,137 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:34:23,974 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:34:24,005 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:34:38,053 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 15:34:42,823 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:34:42,855 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:34:59,337 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 15:35:22,373 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:35:22,401 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:35:36,380 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 15:39:08,125 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:39:08,150 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:43:09,309 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:43:09,338 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:43:25,591 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 15:49:09,592 WARN o.a.h.u.Shell [main] Did not find winutils.exe: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+2022-07-25 15:49:09,622 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 15:49:17,351 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-4e763b80-c61f-41d1-97e3-82fb619c4c82. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 15:49:17,381 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 15:49:17,417 ERROR o.a.s.s.e.s.StreamMetadata [main] Error writing stream metadata StreamMetadata(ba448afc-f440-423d-8209-ba3c0ddbed33) to file:/C:/Users/mashu/AppData/Local/Temp/temporary-4e763b80-c61f-41d1-97e3-82fb619c4c82/metadata
+java.lang.RuntimeException: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:735) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.getSetPermissionCommand(Shell.java:270) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.getSetPermissionCommand(Shell.java:286) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem.setPermission(RawLocalFileSystem.java:978) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem$LocalFSFileOutputStream.<init>(RawLocalFileSystem.java:324) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem$LocalFSFileOutputStream.<init>(RawLocalFileSystem.java:294) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem.createOutputStreamWithMode(RawLocalFileSystem.java:439) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem.create(RawLocalFileSystem.java:428) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem.create(RawLocalFileSystem.java:459) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileSystem.primitiveCreate(FileSystem.java:1305) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.DelegateToFileSystem.createInternal(DelegateToFileSystem.java:102) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.ChecksumFs$ChecksumFSOutputSummer.<init>(ChecksumFs.java:353) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.ChecksumFs.createInternal(ChecksumFs.java:400) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.AbstractFileSystem.create(AbstractFileSystem.java:626) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$3.next(FileContext.java:701) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$3.next(FileContext.java:697) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FSLinkResolver.resolve(FSLinkResolver.java:90) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext.create(FileContext.java:703) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.spark.sql.execution.streaming.FileContextBasedCheckpointFileManager.createTempFile(CheckpointFileManager.scala:327) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.CheckpointFileManager$RenameBasedFSDataOutputStream.<init>(CheckpointFileManager.scala:140) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.CheckpointFileManager$RenameBasedFSDataOutputStream.<init>(CheckpointFileManager.scala:143) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileContextBasedCheckpointFileManager.createAtomic(CheckpointFileManager.scala:333) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamMetadata$.write(StreamMetadata.scala:79) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$streamMetadata$1(StreamExecution.scala:140) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.getOrElse(Option.scala:201) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.<init>(StreamExecution.scala:138) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.<init>(MicroBatchExecution.scala:48) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.streaming.StreamingQueryManager.createQuery(StreamingQueryManager.scala:279) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.streaming.StreamingQueryManager.startQuery(StreamingQueryManager.scala:326) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.streaming.DataStreamWriter.startQuery(DataStreamWriter.scala:427) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.streaming.DataStreamWriter.startInternal(DataStreamWriter.scala:351) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.streaming.DataStreamWriter.start(DataStreamWriter.scala:249) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:61) ~[classes/:?]
+	at com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6) ~[classes/:?]
+	at scala.Function0.apply$mcV$sp(Function0.scala:39) ~[scala-library-2.13.8.jar:?]
+	at scala.Function0.apply$mcV$sp$(Function0.scala:39) ~[scala-library-2.13.8.jar:?]
+	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17) ~[scala-library-2.13.8.jar:?]
+	at scala.App.$anonfun$main$1(App.scala:76) ~[scala-library-2.13.8.jar:?]
+	at scala.App.$anonfun$main$1$adapted(App.scala:76) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:926) ~[scala-library-2.13.8.jar:?]
+	at scala.App.main(App.scala:76) ~[scala-library-2.13.8.jar:?]
+	at scala.App.main$(App.scala:74) ~[scala-library-2.13.8.jar:?]
+	at com.github.marija.day19streaming$.main(day19streaming.scala:6) ~[classes/:?]
+	at com.github.marija.day19streaming.main(day19streaming.scala) ~[classes/:?]
+Caused by: java.io.FileNotFoundException: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset. -see https://wiki.apache.org/hadoop/WindowsProblems
+	at org.apache.hadoop.util.Shell.fileNotFoundException(Shell.java:547) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.getHadoopHomeDir(Shell.java:568) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.getQualifiedBin(Shell.java:591) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:688) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:79) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1712) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.SecurityUtil.setConfigurationInternal(SecurityUtil.java:99) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.SecurityUtil.<clinit>(SecurityUtil.java:88) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.UserGroupInformation.initialize(UserGroupInformation.java:312) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.UserGroupInformation.ensureInitialized(UserGroupInformation.java:300) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.UserGroupInformation.getCurrentUser(UserGroupInformation.java:575) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.spark.util.Utils$.$anonfun$getCurrentUserName$1(Utils.scala:2561) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.getOrElse(Option.scala:201) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.util.Utils$.getCurrentUserName(Utils.scala:2561) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.<init>(SparkContext.scala:316) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext$.getOrCreate(SparkContext.scala:2704) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.SparkSession$Builder.$anonfun$getOrCreate$2(SparkSession.scala:953) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.getOrElse(Option.scala:201) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8) ~[classes/:?]
+	... 13 more
+Caused by: java.io.FileNotFoundException: HADOOP_HOME and hadoop.home.dir are unset.
+	at org.apache.hadoop.util.Shell.checkHadoopHomeInner(Shell.java:467) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.checkHadoopHome(Shell.java:438) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:515) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:79) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.conf.Configuration.getBoolean(Configuration.java:1712) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.SecurityUtil.setConfigurationInternal(SecurityUtil.java:99) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.SecurityUtil.<clinit>(SecurityUtil.java:88) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.UserGroupInformation.initialize(UserGroupInformation.java:312) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.UserGroupInformation.ensureInitialized(UserGroupInformation.java:300) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.security.UserGroupInformation.getCurrentUser(UserGroupInformation.java:575) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.spark.util.Utils$.$anonfun$getCurrentUserName$1(Utils.scala:2561) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.getOrElse(Option.scala:201) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.util.Utils$.getCurrentUserName(Utils.scala:2561) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.<init>(SparkContext.scala:316) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext$.getOrCreate(SparkContext.scala:2704) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.SparkSession$Builder.$anonfun$getOrCreate$2(SparkSession.scala:953) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.getOrElse(Option.scala:201) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8) ~[classes/:?]
+	... 13 more
+2022-07-25 16:33:46,936 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 16:33:55,901 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-12843bcb-993e-4445-bb40-cccc3539a30d. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 16:33:55,942 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 16:33:57,114 ERROR o.a.s.s.e.s.MicroBatchExecution [stream execution thread for customer_purchases [id = 572e90f3-94b6-4d99-86e5-5cbaff720f29, runId = d676f355-f99e-4114-aa10-bb39f7a1b22f]] Query customer_purchases [id = 572e90f3-94b6-4d99-86e5-5cbaff720f29, runId = d676f355-f99e-4114-aa10-bb39f7a1b22f] terminated with error
+java.lang.UnsatisfiedLinkError: 'boolean org.apache.hadoop.io.nativeio.NativeIO$Windows.access0(java.lang.String, int)'
+	at org.apache.hadoop.io.nativeio.NativeIO$Windows.access0(Native Method) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.io.nativeio.NativeIO$Windows.access(NativeIO.java:793) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileUtil.canRead(FileUtil.java:1218) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileUtil.list(FileUtil.java:1423) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem.listStatus(RawLocalFileSystem.java:601) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.DelegateToFileSystem.listStatus(DelegateToFileSystem.java:177) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.ChecksumFs.listStatus(ChecksumFs.java:548) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util$1.next(FileContext.java:1915) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util$1.next(FileContext.java:1911) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FSLinkResolver.resolve(FSLinkResolver.java:90) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util.listStatus(FileContext.java:1917) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util.listStatus(FileContext.java:1876) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util.listStatus(FileContext.java:1835) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.spark.sql.execution.streaming.FileContextBasedCheckpointFileManager.list(CheckpointFileManager.scala:316) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.CompactibleFileStreamLog.compactInterval$lzycompute(CompactibleFileStreamLog.scala:87) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.CompactibleFileStreamLog.compactInterval(CompactibleFileStreamLog.scala:72) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSourceLog.<init>(FileStreamSourceLog.scala:58) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.<init>(FileStreamSource.scala:80) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.DataSource.createSource(DataSource.scala:306) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution$$anonfun$1.$anonfun$applyOrElse$1(MicroBatchExecution.scala:86) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.mutable.HashMap.getOrElseUpdate(HashMap.scala:454) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution$$anonfun$1.applyOrElse(MicroBatchExecution.scala:83) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution$$anonfun$1.applyOrElse(MicroBatchExecution.scala:81) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$1(TreeNode.scala:584) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:176) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:584) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.OrderPreservingUnaryNode.mapChildren(LogicalPlan.scala:208) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.OrderPreservingUnaryNode.mapChildren(LogicalPlan.scala:208) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.OrderPreservingUnaryNode.mapChildren(LogicalPlan.scala:208) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.Aggregate.mapChildren(basicLogicalOperators.scala:976) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDown(TreeNode.scala:560) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transform(TreeNode.scala:528) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.logicalPlan$lzycompute(MicroBatchExecution.scala:81) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.logicalPlan(MicroBatchExecution.scala:61) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$runStream$1(StreamExecution.scala:299) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.org$apache$spark$sql$execution$streaming$StreamExecution$$runStream(StreamExecution.scala:285) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution$$anon$1.run(StreamExecution.scala:208) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+2022-07-25 16:34:46,716 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 16:34:56,340 WARN o.a.h.u.NativeCodeLoader [main] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2022-07-25 16:34:57,527 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-b7cca4da-063f-47bf-84ae-1b31c1083f2f. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 16:34:57,557 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 16:34:58,416 WARN o.a.s.u.Utils [main] Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2022-07-25 16:34:58,494 ERROR o.a.s.s.e.s.MicroBatchExecution [stream execution thread for customer_purchases [id = bc29b9bc-791a-4083-9d86-abf0a5a15944, runId = c0c3c3d0-58bf-479c-b9c0-2d5284114fc3]] Query customer_purchases [id = bc29b9bc-791a-4083-9d86-abf0a5a15944, runId = c0c3c3d0-58bf-479c-b9c0-2d5284114fc3] terminated with error
+java.lang.UnsatisfiedLinkError: 'boolean org.apache.hadoop.io.nativeio.NativeIO$Windows.access0(java.lang.String, int)'
+	at org.apache.hadoop.io.nativeio.NativeIO$Windows.access0(Native Method) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.io.nativeio.NativeIO$Windows.access(NativeIO.java:793) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileUtil.canRead(FileUtil.java:1218) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileUtil.list(FileUtil.java:1423) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.RawLocalFileSystem.listStatus(RawLocalFileSystem.java:601) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.DelegateToFileSystem.listStatus(DelegateToFileSystem.java:177) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.ChecksumFs.listStatus(ChecksumFs.java:548) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util$1.next(FileContext.java:1915) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util$1.next(FileContext.java:1911) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FSLinkResolver.resolve(FSLinkResolver.java:90) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util.listStatus(FileContext.java:1917) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util.listStatus(FileContext.java:1876) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.hadoop.fs.FileContext$Util.listStatus(FileContext.java:1835) ~[hadoop-client-api-3.3.2.jar:?]
+	at org.apache.spark.sql.execution.streaming.FileContextBasedCheckpointFileManager.list(CheckpointFileManager.scala:316) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.CompactibleFileStreamLog.compactInterval$lzycompute(CompactibleFileStreamLog.scala:87) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.CompactibleFileStreamLog.compactInterval(CompactibleFileStreamLog.scala:72) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSourceLog.<init>(FileStreamSourceLog.scala:58) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.<init>(FileStreamSource.scala:80) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.DataSource.createSource(DataSource.scala:306) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution$$anonfun$1.$anonfun$applyOrElse$1(MicroBatchExecution.scala:86) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.mutable.HashMap.getOrElseUpdate(HashMap.scala:454) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution$$anonfun$1.applyOrElse(MicroBatchExecution.scala:83) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution$$anonfun$1.applyOrElse(MicroBatchExecution.scala:81) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$1(TreeNode.scala:584) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.CurrentOrigin$.withOrigin(TreeNode.scala:176) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:584) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.OrderPreservingUnaryNode.mapChildren(LogicalPlan.scala:208) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.OrderPreservingUnaryNode.mapChildren(LogicalPlan.scala:208) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.OrderPreservingUnaryNode.mapChildren(LogicalPlan.scala:208) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.$anonfun$transformDownWithPruning$3(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren(TreeNode.scala:1228) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.UnaryLike.mapChildren$(TreeNode.scala:1227) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.Aggregate.mapChildren(basicLogicalOperators.scala:976) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDownWithPruning(TreeNode.scala:589) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.org$apache$spark$sql$catalyst$plans$logical$AnalysisHelper$$super$transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning(AnalysisHelper.scala:267) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.AnalysisHelper.transformDownWithPruning$(AnalysisHelper.scala:263) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.plans.logical.LogicalPlan.transformDownWithPruning(LogicalPlan.scala:30) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transformDown(TreeNode.scala:560) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.catalyst.trees.TreeNode.transform(TreeNode.scala:528) ~[spark-catalyst_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.logicalPlan$lzycompute(MicroBatchExecution.scala:81) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.logicalPlan(MicroBatchExecution.scala:61) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$runStream$1(StreamExecution.scala:299) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.org$apache$spark$sql$execution$streaming$StreamExecution$$runStream(StreamExecution.scala:285) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution$$anon$1.run(StreamExecution.scala:208) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+2022-07-25 16:43:10,398 WARN o.a.s.u.Utils [main] Your hostname, LAPTOP-OEU2R6BM resolves to a loopback address: 127.0.0.1, but we couldn't find any external IP address!
+2022-07-25 16:43:10,408 WARN o.a.s.u.Utils [main] Set SPARK_LOCAL_IP if you need to bind to another address
+2022-07-25 16:43:48,963 WARN o.a.s.u.Utils [main] Your hostname, LAPTOP-OEU2R6BM resolves to a loopback address: 127.0.0.1, but we couldn't find any external IP address!
+2022-07-25 16:43:48,971 WARN o.a.s.u.Utils [main] Set SPARK_LOCAL_IP if you need to bind to another address
+2022-07-25 16:45:10,472 WARN o.a.s.u.Utils [main] Your hostname, LAPTOP-OEU2R6BM resolves to a loopback address: 127.0.0.1, but we couldn't find any external IP address!
+2022-07-25 16:45:10,480 WARN o.a.s.u.Utils [main] Set SPARK_LOCAL_IP if you need to bind to another address
+2022-07-25 16:45:23,923 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-66515452-ab84-4c09-a8d0-169b8c479de0. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 16:45:23,986 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 16:46:47,923 WARN o.a.s.u.Utils [main] Your hostname, LAPTOP-OEU2R6BM resolves to a loopback address: 127.0.0.1, but we couldn't find any external IP address!
+2022-07-25 16:46:47,932 WARN o.a.s.u.Utils [main] Set SPARK_LOCAL_IP if you need to bind to another address
+2022-07-25 16:47:04,534 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 16:47:18,628 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-e874a0a4-45a6-478d-b0a6-f0228d11b833. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 16:47:18,667 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 17:07:06,386 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 17:07:10,351 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-b4ad4ddc-621d-4f4c-9b7b-8614f914f174. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 17:07:10,377 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 17:09:00,444 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 17:09:12,173 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-e6792951-fab6-4c68-9f73-fbdf348aebd4. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 17:09:12,205 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 17:09:13,126 ERROR o.a.s.s.e.s.MicroBatchExecution [stream execution thread for customer_purchases [id = 0f7f579a-008b-4f47-b8d9-f449f7fc3447, runId = 1e37f540-0ac5-463e-b6b8-0e3ec45b73de]] Query customer_purchases [id = 0f7f579a-008b-4f47-b8d9-f449f7fc3447, runId = 1e37f540-0ac5-463e-b6b8-0e3ec45b73de] terminated with error
+java.lang.IllegalStateException: SparkContext has been shutdown
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2220) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2249) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2268) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2293) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.$anonfun$collect$1(RDD.scala:1021) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:406) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:1020) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFilesInternal(HadoopFSUtils.scala:139) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFiles(HadoopFSUtils.scala:69) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex$.bulkListLeafFiles(InMemoryFileIndex.scala:158) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.listLeafFiles(InMemoryFileIndex.scala:131) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.refresh0(InMemoryFileIndex.scala:94) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.<init>(InMemoryFileIndex.scala:66) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.allFilesUsingInMemoryFileIndex(FileStreamSource.scala:265) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchAllFiles(FileStreamSource.scala:317) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchMaxOffset(FileStreamSource.scala:139) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.latestOffset(FileStreamSource.scala:340) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$4(MicroBatchExecution.scala:448) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$2(MicroBatchExecution.scala:447) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.immutable.List.map(List.scala:246) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.immutable.List.map(List.scala:79) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$1(MicroBatchExecution.scala:436) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.withProgressLocked(MicroBatchExecution.scala:687) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.constructNextBatch(MicroBatchExecution.scala:432) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$2(MicroBatchExecution.scala:237) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$1(MicroBatchExecution.scala:218) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProcessingTimeExecutor.execute(TriggerExecutor.scala:67) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.runActivatedStream(MicroBatchExecution.scala:212) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$runStream$1(StreamExecution.scala:307) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.org$apache$spark$sql$execution$streaming$StreamExecution$$runStream(StreamExecution.scala:285) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution$$anon$1.run(StreamExecution.scala:208) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+2022-07-25 17:09:59,556 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 17:10:07,240 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-c810abc1-6848-4e73-a1f2-7714b44ebb6d. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 17:10:07,280 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 17:10:08,186 ERROR o.a.s.s.e.s.MicroBatchExecution [stream execution thread for customer_purchases [id = e9204ea4-e01a-4746-ad6c-0e7630f80993, runId = d02ad0b4-03d4-4283-bf92-5dfc2dc6e46c]] Query customer_purchases [id = e9204ea4-e01a-4746-ad6c-0e7630f80993, runId = d02ad0b4-03d4-4283-bf92-5dfc2dc6e46c] terminated with error
+java.lang.IllegalStateException: SparkContext has been shutdown
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2220) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2249) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2268) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2293) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.$anonfun$collect$1(RDD.scala:1021) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:406) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:1020) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFilesInternal(HadoopFSUtils.scala:139) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFiles(HadoopFSUtils.scala:69) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex$.bulkListLeafFiles(InMemoryFileIndex.scala:158) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.listLeafFiles(InMemoryFileIndex.scala:131) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.refresh0(InMemoryFileIndex.scala:94) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.<init>(InMemoryFileIndex.scala:66) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.allFilesUsingInMemoryFileIndex(FileStreamSource.scala:265) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchAllFiles(FileStreamSource.scala:317) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchMaxOffset(FileStreamSource.scala:139) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.latestOffset(FileStreamSource.scala:340) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$4(MicroBatchExecution.scala:448) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$2(MicroBatchExecution.scala:447) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.immutable.List.map(List.scala:246) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.immutable.List.map(List.scala:79) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$1(MicroBatchExecution.scala:436) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.withProgressLocked(MicroBatchExecution.scala:687) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.constructNextBatch(MicroBatchExecution.scala:432) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$2(MicroBatchExecution.scala:237) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$1(MicroBatchExecution.scala:218) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProcessingTimeExecutor.execute(TriggerExecutor.scala:67) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.runActivatedStream(MicroBatchExecution.scala:212) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$runStream$1(StreamExecution.scala:307) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.org$apache$spark$sql$execution$streaming$StreamExecution$$runStream(StreamExecution.scala:285) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution$$anon$1.run(StreamExecution.scala:208) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+2022-07-25 17:11:44,480 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 17:11:50,756 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-8139c759-ebb9-44b1-b0c9-3842aa7f676f. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 17:11:50,812 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 17:11:52,335 ERROR o.a.s.s.e.s.MicroBatchExecution [stream execution thread for customer_purchases [id = 4f456bc7-a47a-4dfc-b430-5509e3f361de, runId = a1f55236-f84d-4931-89e7-9d09b1070d41]] Query customer_purchases [id = 4f456bc7-a47a-4dfc-b430-5509e3f361de, runId = a1f55236-f84d-4931-89e7-9d09b1070d41] terminated with error
+org.apache.spark.SparkException: Job aborted due to stage failure: Task serialization failed: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+         
+java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:120)
+	at org.apache.spark.SparkContext.broadcast(SparkContext.scala:1526)
+	at org.apache.spark.scheduler.DAGScheduler.submitMissingTasks(DAGScheduler.scala:1513)
+	at org.apache.spark.scheduler.DAGScheduler.submitStage(DAGScheduler.scala:1329)
+	at org.apache.spark.scheduler.DAGScheduler.handleJobSubmitted(DAGScheduler.scala:1271)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:2810)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2802)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2791)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49)
+
+	at org.apache.spark.scheduler.DAGScheduler.failJobAndIndependentStages(DAGScheduler.scala:2672) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2(DAGScheduler.scala:2608) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2$adapted(DAGScheduler.scala:2607) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.immutable.List.foreach(List.scala:333) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:2607) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitMissingTasks(DAGScheduler.scala:1523) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitStage(DAGScheduler.scala:1329) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.handleJobSubmitted(DAGScheduler.scala:1271) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:2810) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2802) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2791) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:952) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2228) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2249) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2268) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2293) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.$anonfun$collect$1(RDD.scala:1021) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:406) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:1020) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFilesInternal(HadoopFSUtils.scala:139) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFiles(HadoopFSUtils.scala:69) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex$.bulkListLeafFiles(InMemoryFileIndex.scala:158) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.listLeafFiles(InMemoryFileIndex.scala:131) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.refresh0(InMemoryFileIndex.scala:94) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.<init>(InMemoryFileIndex.scala:66) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.allFilesUsingInMemoryFileIndex(FileStreamSource.scala:265) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchAllFiles(FileStreamSource.scala:317) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchMaxOffset(FileStreamSource.scala:139) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.latestOffset(FileStreamSource.scala:340) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$4(MicroBatchExecution.scala:448) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$2(MicroBatchExecution.scala:447) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.immutable.List.map(List.scala:246) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.immutable.List.map(List.scala:79) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$1(MicroBatchExecution.scala:436) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.withProgressLocked(MicroBatchExecution.scala:687) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.constructNextBatch(MicroBatchExecution.scala:432) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$2(MicroBatchExecution.scala:237) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$1(MicroBatchExecution.scala:218) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProcessingTimeExecutor.execute(TriggerExecutor.scala:67) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.runActivatedStream(MicroBatchExecution.scala:212) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$runStream$1(StreamExecution.scala:307) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.org$apache$spark$sql$execution$streaming$StreamExecution$$runStream(StreamExecution.scala:285) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution$$anon$1.run(StreamExecution.scala:208) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+Caused by: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:120) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.broadcast(SparkContext.scala:1526) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitMissingTasks(DAGScheduler.scala:1513) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitStage(DAGScheduler.scala:1329) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.handleJobSubmitted(DAGScheduler.scala:1271) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:2810) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2802) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2791) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+2022-07-25 17:15:32,155 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 17:15:38,911 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-2db5a331-7eff-43b8-ab5d-6bba4fa610f7. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 17:15:38,943 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 18:36:27,040 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:03:26,204 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:04:23,153 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:04:34,827 WARN o.a.s.s.e.s.ResolveWriteToStream [main] Temporary checkpoint location created which is deleted normally when the query didn't fail: C:\Users\mashu\AppData\Local\Temp\temporary-0f88ca12-8a0c-45c0-94bf-a85e0d43f7f0. If it's required to delete it under any circumstances, please set spark.sql.streaming.forceDeleteTempCheckpointLocation to true. Important to know deleting temp checkpoint folder is best effort.
+2022-07-25 19:04:34,861 WARN o.a.s.s.e.s.ResolveWriteToStream [main] spark.sql.adaptive.enabled is not supported in streaming DataFrames/Datasets and will be disabled.
+2022-07-25 19:04:35,703 ERROR o.a.s.s.e.s.MicroBatchExecution [stream execution thread for customer_purchases [id = 07c884bc-5396-46a6-b750-0b71886b362c, runId = c44eb2e5-5f65-471d-9e52-d157ca1c9f3f]] Query customer_purchases [id = 07c884bc-5396-46a6-b750-0b71886b362c, runId = c44eb2e5-5f65-471d-9e52-d157ca1c9f3f] terminated with error
+org.apache.spark.SparkException: Job aborted due to stage failure: Task serialization failed: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+         
+java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:120)
+	at org.apache.spark.SparkContext.broadcast(SparkContext.scala:1526)
+	at org.apache.spark.scheduler.DAGScheduler.submitMissingTasks(DAGScheduler.scala:1513)
+	at org.apache.spark.scheduler.DAGScheduler.submitStage(DAGScheduler.scala:1329)
+	at org.apache.spark.scheduler.DAGScheduler.handleJobSubmitted(DAGScheduler.scala:1271)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:2810)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2802)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2791)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49)
+
+	at org.apache.spark.scheduler.DAGScheduler.failJobAndIndependentStages(DAGScheduler.scala:2672) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2(DAGScheduler.scala:2608) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.$anonfun$abortStage$2$adapted(DAGScheduler.scala:2607) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.immutable.List.foreach(List.scala:333) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:2607) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitMissingTasks(DAGScheduler.scala:1523) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitStage(DAGScheduler.scala:1329) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.handleJobSubmitted(DAGScheduler.scala:1271) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:2810) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2802) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2791) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:952) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2228) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2249) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2268) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2293) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.$anonfun$collect$1(RDD.scala:1021) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:406) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:1020) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFilesInternal(HadoopFSUtils.scala:139) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.HadoopFSUtils$.parallelListLeafFiles(HadoopFSUtils.scala:69) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex$.bulkListLeafFiles(InMemoryFileIndex.scala:158) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.listLeafFiles(InMemoryFileIndex.scala:131) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.refresh0(InMemoryFileIndex.scala:94) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.datasources.InMemoryFileIndex.<init>(InMemoryFileIndex.scala:66) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.allFilesUsingInMemoryFileIndex(FileStreamSource.scala:265) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchAllFiles(FileStreamSource.scala:317) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.fetchMaxOffset(FileStreamSource.scala:139) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.FileStreamSource.latestOffset(FileStreamSource.scala:340) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$4(MicroBatchExecution.scala:448) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$2(MicroBatchExecution.scala:447) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.collection.immutable.List.map(List.scala:246) ~[scala-library-2.13.8.jar:?]
+	at scala.collection.immutable.List.map(List.scala:79) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$constructNextBatch$1(MicroBatchExecution.scala:436) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.withProgressLocked(MicroBatchExecution.scala:687) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.constructNextBatch(MicroBatchExecution.scala:432) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$2(MicroBatchExecution.scala:237) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken(ProgressReporter.scala:375) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProgressReporter.reportTimeTaken$(ProgressReporter.scala:373) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.reportTimeTaken(StreamExecution.scala:68) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.$anonfun$runActivatedStream$1(MicroBatchExecution.scala:218) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.ProcessingTimeExecutor.execute(TriggerExecutor.scala:67) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.MicroBatchExecution.runActivatedStream(MicroBatchExecution.scala:212) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.$anonfun$runStream$1(StreamExecution.scala:307) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.sql.SparkSession.withActive(SparkSession.scala:779) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution.org$apache$spark$sql$execution$streaming$StreamExecution$$runStream(StreamExecution.scala:285) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.sql.execution.streaming.StreamExecution$$anon$1.run(StreamExecution.scala:208) ~[spark-sql_2.13-3.3.0.jar:3.3.0]
+Caused by: java.lang.IllegalStateException: Cannot call methods on a stopped SparkContext.
+This stopped SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+
+The currently active SparkContext was created at:
+
+org.apache.spark.sql.SparkSession$Builder.getOrCreate(SparkSession.scala:947)
+com.github.marija.day19streaming$.delayedEndpoint$com$github$marija$day19streaming$1(day19streaming.scala:8)
+com.github.marija.day19streaming$delayedInit$body.apply(day19streaming.scala:6)
+scala.Function0.apply$mcV$sp(Function0.scala:39)
+scala.Function0.apply$mcV$sp$(Function0.scala:39)
+scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+scala.App.$anonfun$main$1(App.scala:76)
+scala.App.$anonfun$main$1$adapted(App.scala:76)
+scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+scala.App.main(App.scala:76)
+scala.App.main$(App.scala:74)
+com.github.marija.day19streaming$.main(day19streaming.scala:6)
+com.github.marija.day19streaming.main(day19streaming.scala)
+         
+	at org.apache.spark.SparkContext.assertNotStopped(SparkContext.scala:120) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.SparkContext.broadcast(SparkContext.scala:1526) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitMissingTasks(DAGScheduler.scala:1513) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.submitStage(DAGScheduler.scala:1329) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGScheduler.handleJobSubmitted(DAGScheduler.scala:1271) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:2810) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2802) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:2791) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:49) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+2022-07-25 19:20:33,204 ERROR o.a.s.m.u.Instrumentation [main] java.lang.IllegalArgumentException: requirement failed: The input column day_of_week_index should have at least two distinct values.
+	at scala.Predef$.require(Predef.scala:337)
+	at org.apache.spark.ml.feature.OneHotEncoderCommon$.$anonfun$transformOutputColumnSchema$1(OneHotEncoder.scala:491)
+	at scala.Option.map(Option.scala:242)
+	at org.apache.spark.ml.feature.OneHotEncoderCommon$.transformOutputColumnSchema(OneHotEncoder.scala:488)
+	at org.apache.spark.ml.feature.OneHotEncoderBase.$anonfun$validateAndTransformSchema$4(OneHotEncoder.scala:98)
+	at scala.collection.ArrayOps$.map$extension(ArrayOps.scala:929)
+	at org.apache.spark.ml.feature.OneHotEncoderBase.validateAndTransformSchema(OneHotEncoder.scala:96)
+	at org.apache.spark.ml.feature.OneHotEncoderBase.validateAndTransformSchema$(OneHotEncoder.scala:79)
+	at org.apache.spark.ml.feature.OneHotEncoder.validateAndTransformSchema(OneHotEncoder.scala:128)
+	at org.apache.spark.ml.feature.OneHotEncoder.transformSchema(OneHotEncoder.scala:162)
+	at org.apache.spark.ml.feature.OneHotEncoder.fit(OneHotEncoder.scala:167)
+	at org.apache.spark.ml.feature.OneHotEncoder.fit(OneHotEncoder.scala:128)
+	at org.apache.spark.ml.Pipeline.$anonfun$fit$5(Pipeline.scala:151)
+	at org.apache.spark.ml.MLEvents.withFitEvent(events.scala:130)
+	at org.apache.spark.ml.MLEvents.withFitEvent$(events.scala:123)
+	at org.apache.spark.ml.util.Instrumentation.withFitEvent(Instrumentation.scala:42)
+	at org.apache.spark.ml.Pipeline.$anonfun$fit$4(Pipeline.scala:151)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1293)
+	at org.apache.spark.ml.Pipeline.$anonfun$fit$2(Pipeline.scala:147)
+	at org.apache.spark.ml.MLEvents.withFitEvent(events.scala:130)
+	at org.apache.spark.ml.MLEvents.withFitEvent$(events.scala:123)
+	at org.apache.spark.ml.util.Instrumentation.withFitEvent(Instrumentation.scala:42)
+	at org.apache.spark.ml.Pipeline.$anonfun$fit$1(Pipeline.scala:133)
+	at org.apache.spark.ml.util.Instrumentation$.$anonfun$instrumented$1(Instrumentation.scala:191)
+	at scala.util.Try$.apply(Try.scala:210)
+	at org.apache.spark.ml.util.Instrumentation$.instrumented(Instrumentation.scala:191)
+	at org.apache.spark.ml.Pipeline.fit(Pipeline.scala:133)
+	at com.github.marija.day19machineLearning$.delayedEndpoint$com$github$marija$day19machineLearning$1(day19machineLearning.scala:59)
+	at com.github.marija.day19machineLearning$delayedInit$body.apply(day19machineLearning.scala:8)
+	at scala.Function0.apply$mcV$sp(Function0.scala:39)
+	at scala.Function0.apply$mcV$sp$(Function0.scala:39)
+	at scala.runtime.AbstractFunction0.apply$mcV$sp(AbstractFunction0.scala:17)
+	at scala.App.$anonfun$main$1(App.scala:76)
+	at scala.App.$anonfun$main$1$adapted(App.scala:76)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:563)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:561)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:926)
+	at scala.App.main(App.scala:76)
+	at scala.App.main$(App.scala:74)
+	at com.github.marija.day19machineLearning$.main(day19machineLearning.scala:8)
+	at com.github.marija.day19machineLearning.main(day19machineLearning.scala)
+
+2022-07-25 19:22:44,786 WARN o.a.s.e.ProcfsMetricsGetter [driver-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:39:43,660 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:40:12,156 ERROR o.a.s.ContextCleaner [Spark Context Cleaner] Error cleaning shuffle 14
+java.lang.NullPointerException: null
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1(MapOutputTracker.scala:882) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1$adapted(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.foreach(Option.scala:437) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.MapOutputTrackerMaster.unregisterShuffle(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.doCleanupShuffle(ContextCleaner.scala:241) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.$anonfun$keepCleaning$3(ContextCleaner.scala:202) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.$anonfun$keepCleaning$3$adapted(ContextCleaner.scala:195) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.foreach(Option.scala:437) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.ContextCleaner.$anonfun$keepCleaning$1(ContextCleaner.scala:195) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.Utils$.tryOrStopSparkContext(Utils.scala:1446) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.org$apache$spark$ContextCleaner$$keepCleaning(ContextCleaner.scala:189) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner$$anon$1.run(ContextCleaner.scala:79) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+2022-07-25 19:40:13,117 ERROR o.a.s.ContextCleaner [Spark Context Cleaner] Error cleaning shuffle 15
+java.lang.NullPointerException: null
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1(MapOutputTracker.scala:882) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1$adapted(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.foreach(Option.scala:437) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.MapOutputTrackerMaster.unregisterShuffle(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.doCleanupShuffle(ContextCleaner.scala:241) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.$anonfun$keepCleaning$3(ContextCleaner.scala:202) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.$anonfun$keepCleaning$3$adapted(ContextCleaner.scala:195) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.foreach(Option.scala:437) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.ContextCleaner.$anonfun$keepCleaning$1(ContextCleaner.scala:195) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.util.Utils$.tryOrStopSparkContext(Utils.scala:1446) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner.org$apache$spark$ContextCleaner$$keepCleaning(ContextCleaner.scala:189) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.ContextCleaner$$anon$1.run(ContextCleaner.scala:79) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+2022-07-25 19:48:36,127 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:49:46,578 WARN o.a.s.e.ProcfsMetricsGetter [executor-heartbeater] Exception when trying to compute pagesize, as a result reporting of ProcessTree metrics is stopped
+2022-07-25 19:50:18,369 ERROR o.a.s.s.BlockManagerStorageEndpoint [block-manager-storage-async-thread-pool-72] Error in removing shuffle 16
+java.lang.NullPointerException: null
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1(MapOutputTracker.scala:882) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1$adapted(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.foreach(Option.scala:437) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.MapOutputTrackerMaster.unregisterShuffle(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.storage.BlockManagerStorageEndpoint$$anonfun$receiveAndReply$1.$anonfun$applyOrElse$3(BlockManagerStorageEndpoint.scala:59) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.storage.BlockManagerStorageEndpoint.$anonfun$doAsync$1(BlockManagerStorageEndpoint.scala:89) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678) ~[scala-library-2.13.8.jar:?]
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467) ~[scala-library-2.13.8.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+2022-07-25 19:50:18,384 WARN o.a.s.s.BlockManagerMaster [block-manager-ask-thread-pool-57] Failed to remove shuffle 16 - null
+java.lang.NullPointerException: null
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1(MapOutputTracker.scala:882) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.MapOutputTrackerMaster.$anonfun$unregisterShuffle$1$adapted(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.Option.foreach(Option.scala:437) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.MapOutputTrackerMaster.unregisterShuffle(MapOutputTracker.scala:881) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at org.apache.spark.storage.BlockManagerStorageEndpoint$$anonfun$receiveAndReply$1.$anonfun$applyOrElse$3(BlockManagerStorageEndpoint.scala:59) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17) ~[scala-library-2.13.8.jar:?]
+	at org.apache.spark.storage.BlockManagerStorageEndpoint.$anonfun$doAsync$1(BlockManagerStorageEndpoint.scala:89) ~[spark-core_2.13-3.3.0.jar:3.3.0]
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678) ~[scala-library-2.13.8.jar:?]
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467) ~[scala-library-2.13.8.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
