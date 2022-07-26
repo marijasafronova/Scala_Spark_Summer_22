@@ -24,15 +24,16 @@ object day20structuredAPI extends App {
   val b = ByteType
 
   //TODO create a DataFrame with a single column called JulyNumbers from 1 to 31
-  val rangeForFirstTask = spark.range(1,32).toDF("July").collect()
+  val rangeForFirstTask = spark.range(1,32).toDF("July")
   //TODO Show all 31 numbers
-  rangeForFirstTask.foreach(println)
+  rangeForFirstTask.collect().foreach(println)
   //TODO Create another dataframe with numbers from 100 to 3100
   val rangeForSecondTask = spark.range(100, 3101).toDF()
   //TODO show last 5 numbers
   rangeForSecondTask.tail(5).foreach(println)
-
-
+  val df100to3100 = rangeForFirstTask.select(rangeForFirstTask.col("July")*100)
+  df100to3100.collect().reverse.take(5).foreach(println)
+ //you want to collect as little as possible
 
 
 }
