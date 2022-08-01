@@ -1290,3 +1290,4 @@ Caused by: java.lang.RuntimeException: java.lang.Double is not a valid external 
 	... 19 more
 
 2022-07-26 20:43:49,990 ERROR o.a.s.s.TaskSetManager [task-result-getter-3] Task 0 in stage 7.0 failed 1 times; aborting job
+2022-08-01 19:08:29,590 WARN o.a.s.u.Utils [main] Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
