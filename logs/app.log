@@ -1291,3 +1291,7 @@ Caused by: java.lang.RuntimeException: java.lang.Double is not a valid external 
 
 2022-07-26 20:43:49,990 ERROR o.a.s.s.TaskSetManager [task-result-getter-3] Task 0 in stage 7.0 failed 1 times; aborting job
 2022-08-01 19:08:29,590 WARN o.a.s.u.Utils [main] Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+2022-08-08 18:41:36,886 WARN o.a.s.s.c.a.SimpleFunctionRegistry [main] The function power3 replaced a previously registered function.
+2022-08-08 18:42:06,274 WARN o.a.s.s.c.a.SimpleFunctionRegistry [main] The function power3 replaced a previously registered function.
+2022-08-08 18:42:49,207 WARN o.a.s.s.c.a.SimpleFunctionRegistry [main] The function power3 replaced a previously registered function.
+2022-08-08 18:43:28,894 WARN o.a.s.s.c.a.SimpleFunctionRegistry [main] The function power3 replaced a previously registered function.
